@@ -1,0 +1,3 @@
+Para uma implementação de extração de dados do ERP3 precisaríamos, primeiramente, que o arquivo de credenciais tivesse o nome "ERP3". 
+No arquivo de credenciais, o db deveria apontar para um arquivo de banco sql, seja ele txt ou csv, onde neste caso não há diferença.
+Por último, seria necessário os dados de acesso ao banco, como nome do banco, usuário e senha, e também um servidor mysql instalado na máquina.
